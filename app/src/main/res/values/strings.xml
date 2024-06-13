@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Validador de contraseñas</string>
+    <string name="hint">Escribe una contraseña</string>
+    <string name="btnValidarContrasena">VALIDAR CONTRASEÑA</string>
+    <string name="mensaje">La contraseña debe tener al menos 5 caracteres y una mayúscula</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="mensajeFragmentResult">Recuerda que para que la contraseña sea segura debe cumplir con estas caracteristicas:\n\n> Al menos 5 caracteres\n> Al menos 1 letra mayúscula\n\n\nOtra característica que hacen la constraseña más segura:\n> Al menos 1 caracter especial (como , % $)\n> Al menos 1 número</string>
+</resources>
